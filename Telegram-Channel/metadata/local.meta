@@ -1,0 +1,25 @@
+[app/ui]
+version = 9.0.3
+modtime = 1674927045.693591000
+
+[app/launcher]
+version = 9.0.3
+modtime = 1674927045.696558000
+
+[app/package/check_for_updates]
+version = 9.0.3
+modtime = 1674927046.076551000
+
+[savedsearches/Histogram%20of%20delay%20in%20seconds]
+version = 9.0.3
+modtime = 1674994017.981562000
+
+[indexes/telegram]
+owner = aplunk
+version = 9.0.3
+modtime = 1675101836.388187000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2FTelegram-Channel%2Fbin%2Ftest.py]
+owner = aplunk
+version = 9.0.3
+modtime = 1675267779.770002000
